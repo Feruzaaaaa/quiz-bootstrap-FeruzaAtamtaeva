@@ -2,6 +2,10 @@
 
 A multi-page responsive website for SummitBuild Architects & Construction, built with Bootstrap 5.
 
+# Github deployment page:
+
+https://feruzaaaaa.github.io/quiz-bootstrap-FeruzaAtamtaeva/
+
 ## Project Overview
 
 This project is a comprehensive website for a private architecture and construction company that specializes in custom projects for residential and commercial clients. The website features a modern, responsive design with five distinct pages showcasing the company's services, portfolio, and contact information.
@@ -40,8 +44,8 @@ The live site is available at: [GitHub Pages URL]
 ## Development Details
 
 - **Name**: Feruza Atamtaeva
-- **Group**: [Your Group Name]
-- **Date**: [Current Date]
+- **Group**: Class of 2028
+- **Date**: 09.10.2025
 
 ## Technologies Used
 
